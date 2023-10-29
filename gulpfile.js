@@ -108,6 +108,3 @@ function task1() {
 
 //named export
 exports.t1 =task1 //gulp t1
-
-//defualt export
-exports.default=  task1 //gulp */
