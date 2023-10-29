@@ -17,5 +17,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gulp-processhtml": "^1.2.0",
+    "gulp-rewrite-image-path": "^0.0.4"
+  }
 }
